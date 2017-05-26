@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\082c5fedffb59e72c04f746d89c998a3e65be7f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_eacce33653b8effa716cc8ba910a03ee6e8adc8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_7b1cee9fab8c0009f8c1690db2d35821a09e61f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\4a86cd2f34f69240304048482c9499f08a587a83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_565195dd7e89f6b67095d1bd894eb11050688cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_3e59e0da279d93e696639b4d81929d1ed17542c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\6860e2aad33d386980bb4f01d052f98dda14e88c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7ed887b17fc9fc790f06e66ef0ba121fd1695d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_9c870385d50070e48207a6437a54849c9da4a5c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\335c10f484ce1d8525f28e2e5177042bb6b82ba1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_ee546949e776c5cf60f51074b08ba7b162fb741d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\19280c97684f350509cf086d9d81bcb94ff80727\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f21d9bccdf765d704c7c4483439230b5bc5a463\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\0eedf88251cfeb16a895f9168c4575dab463521c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_7aee63cfcd7e14103d3900c9df69e182a839849d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\25a35f884014c99fb38a9522cf6785296902bd63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acdcbb217adb86d9de4b70df41b94da644096288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\ac0bfb894a5622d0aff7b1888e9d408a56c811a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22e52fc4d1f446ecf86774aae3e85d31405294ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\6b6dcb5e524f6906ab1cf5689c0f4aedbc6e05e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_f841715bee39c181ca57f213aa47354226db4d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\44659cf29a6ad58cfd30b8f6eee85c82162c95a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_237ba9ae3a6a01e943667cd5211724376b9f7077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\0ac3bbe521cbfa1d8aefa5ef74462381e4ff5ad4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_10ff75749fcbe0229b14837b78e6aebb5204691e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_0d5e2ed20c5712853a28dee0aa0512647e0bb79f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\0cd68d08eb3795d762f7928806038d793f02b50e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed48f99ed39c98173ea71f7057610bd1d00d224d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\d56a9ec00e4531ec148fd3459bb7af89ba144b50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58aaaa5ed27609b79141c239f16ecddd98e5cad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\617eafa79b818c4c4eb732d98f88bf43a742cf9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_94375aa872d3f616a0fc6d3f422f0b327ccc38a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\0ac3c766392901a7b5813e6f809842afae943606\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_dc664b948e000dabf8cf5ea14d3b68adbfd569e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\ee91322719219be3b2bb1372a217e166c5e56094\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_fbb9e491841491bf894453b0e1c078459079a3b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\07f48405cadb940adf9fd77e44c9f58a819e1364\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8154ff7ffecccd5539af0f80df53289f2b1eec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\e9eeb940d19486b00055f4f36f979e6a54585f88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_954a5f7fe823114c2922b4e20d520776f12ca1d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\f84176cfda9f534aaf22acf4402fb9e7ea630678\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_2da20cd5f8229e826b64120aa0e70e712034b30d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\25b04cb47c1373acd9751d8e7cb6b5bdf64ae344\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_696f82f04f8d98ef8bd80c6fe652aa818d968942\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\4495f89ddb5d9ff239970727de5b0a272dafa7aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_adf11d3cb81c082277ae10025107e15b0b596684.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\d54bc909cdca0178f4e9395dc49448008d2a1fc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_242a43c077b5645cdef0dcdf4f0f9129cdc3a1cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\94cb8b9935ad15aa93987222e1a3eb52fac25cd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_fc37dc648c8cb51d9d33e3d744fb413a11f56558.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\cec86b15f5415e39390f6a76bb39794fc719ad6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d88573e7ff92bf35ffd9328f6c92c3fb7bd3f8dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\b6ee338bd3e4a693572e3c021d3f1d34da2d4de4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6cf96b7aee27248b501b305bc9082778565b65f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\a9bbc36adac5da3dbf48366e9af52ff5e8e78831\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_1469b656155ed53a2ae0b350d1ec3c1e919deed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\4d0ff2ffb3482c459594798c4c3a51fdbe79edc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_0f697cee4cc03b934be1ace3a389c777cb684382.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\2d0b602a0fe145713b6ef9a8b03b4157afdc61c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_557a4c555f1b167ebf67b38208c8160f38e0de03\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\0e67cbc403606aba35b17d2845d03f5aa23abbd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_2a312d3d95e912fe7d05cb3d73e41483faac5ee4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\6595c0f585d0c505f25a9ef377a612bff6a498d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9102579c3145e661c17b7b4418620b600c0cd2e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\4cdada3ad5ab131e04d8a4182c8e39ed47ad1c31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_652c086bdbddaec3596b93f0ad45b8537588d82e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\33c68c0d91dc3a7e0acd8ed12ee9a7ff8921d1ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b32f207c77fb3e490573e3bf64d4369a0bc7f373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\74edc006def59b99889def62addaf311ef69bf35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f24c30e09b5a95d2861bd8d54cac4682823dea77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_2d8156996dbf393aefd9e85ba35c2569b392a0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\glide-3.6.1_be94dcd8540b15b5fd710c28655e74f7ff8d9197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\8a3e0c420fc3ee9016acbff871d0c803abec01fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_3d13a3a3ea9ec216bcc89980d3f25f2de85548aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_63bddb6d0a0ca30b6ee4019ec947ad73b5264bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\b50f8b38c75135a1597456271a501236c71b208e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_952e53149eb46974996571a32aec8f6e5c94195d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fac5faf8f064d1495d38bc4aa59103b396726706">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_66cbbaa16a06a2cf5d63426c57fb3e778651d425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_ae4a026283bed276fffb63c34a7549fc0713846d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\44663d402057ba333ace41ad5a2dd9ff7e4ca0c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e642fac1bbb4324d1f0e5f8a6e82a3b1fc76da96\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\355a9abf779db21bb3aa70e1e302f3ca45f7db14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_1e913ddee41a151ed9299af6ea62c5127b137988.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\e7e0e056f79573a894f7220242d24d367ee643eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1395232a7eddc612029353b3c953cb0fced71076">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6e1dc8fb922f91b86b5f1b8b6b1e37d0f9ee23e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.android\build-cache\6ef0e7aee47aacaf12a426614b66795e1ba4c9c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cac5cf897ea32b80382d4bcc64fdb6567565f65c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_20563bbb7c383fe69fa6d524a3fee9745c7be24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\28b600b7e7b6c419db37011b856f81b072bd9ffa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_a094ea2f935d213538d4c72bd6e18f76e286a4db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_d6ba8b08b6a6e478a3b177fcfc9ef9e490278eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GuyHecht\.android\build-cache\65c0bde6dc4bd96e71fd8d7af1b70b005e1d1827\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\pre-dexed\debug\classes_d06843918089b2daefbdf3e27e9e8b480d5eff1f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_feafa9626295570c63175f6878c41e6a92800b86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\GuyHecht\Desktop\Starter\and-nd-firebase-1.00-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d1c19036110045b48fed31f5b82a4d5f6ae4e5ce\classes.dex" />
+    </item>
+
+</items>
